@@ -44,9 +44,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-  <ul>{% Disapproval rating, VIX index, COVID-19 cases and Trump’s tweeting against China %}
-    {% [include archive-single-cv.html](https://www.tandfonline.com/doi/abs/10.1080/13504851.2021.1927956?journalCode=rael20) %}
-  {% endfor %}</ul>
+ 
   
 Talks
 ======
