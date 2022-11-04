@@ -61,6 +61,6 @@ Service and leadership
 * Currently signed in to 43 different slack teams
 
 
-<iframe src="/files/pdf/Williams CV.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+<iframe src="/files/李新成个人简历.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 
-You can download a PDF copy of my CV [here](/files/pdf/Williams CV.pdf).
+You can download a PDF copy of my CV [here](/files/李新成个人简历.pdf).
