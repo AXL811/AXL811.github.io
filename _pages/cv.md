@@ -15,7 +15,7 @@ redirect_from:
 Education
 ======
 * B.S. in Economics and Finance, Tsinghua University, 2021
-* M.S. in Finance, Tsinghua University, 2023(expected)
+* M.S. in Finance, Tsinghua University, 2023 (expected)
 
 Work experience
 ======
