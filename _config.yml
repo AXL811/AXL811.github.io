@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Alexander"
+title                    : "About Me"
 title_separator          : "-"
 name                     : &name "Alex"
 description              : &description "personal description"
@@ -94,7 +94,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "profile.php?id=100009447431034"
   foursquare       :
   github           : "AXL811"
   gitlab           : "AXL811"
