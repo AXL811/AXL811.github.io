@@ -63,8 +63,8 @@ Additional Information
 * Languages: English (Fluent, TOEFL: 105, PTE Academic Score 71/90, GRE: 159+169+4), Mandarin (Native)
 * Citizenship: United States of America
 * Computer Skills:
-–	Data/Statistic Packages: Stata, R, Python
-–	Editing Tools: LaTeX, MS Office
+  –	Data/Statistic Packages: Stata, R, Python
+  –	Editing Tools: LaTeX, MS Office
 * Hobbies: Swimming; Cooking; Tennis; 
 
 
