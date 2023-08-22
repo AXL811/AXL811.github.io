@@ -58,9 +58,15 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Additional Information
 ======
-* Currently signed in to 43 different slack teams
+* Languages: English (Fluent, TOEFL: 105, PTE Academic Score 71/90, GRE: 159+169+4), Mandarin (Native)
+•	Citizenship: United States of America
+•	Computer Skills:
+–	Data/Statistic Packages: Stata, R, Python
+–	Editing Tools: LaTeX, MS Office
+•	Hobbies: Swimming; Cooking; Tennis; 
+Currently signed in to 43 different slack teams
 
 
 <iframe src="/files/李新成个人简历.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
