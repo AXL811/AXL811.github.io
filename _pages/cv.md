@@ -17,17 +17,17 @@ Education
 * M.A. in Finance, Tsinghua University, 2023 
 * B.A. in Economics and Finance, Tsinghua University, 2021
 
-Work experience
+Research Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2023: Research Assistant
+  * University of Michigan
+  * Duties included: TBA
+  * Supervisor: Professor Wu
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2023: Research Assistant
+  * Institute for Internet Industry
+  * Duties included: TBA
+  * Supervisor: Professor XXX
   
 Skills
 ======
@@ -63,8 +63,8 @@ Additional Information
 * Languages: English (Fluent, TOEFL: 105, PTE Academic Score 71/90, GRE: 159+169+4), Mandarin (Native)
 * Citizenship: United States of America
 * Computer Skills:
-  –	Data/Statistic Packages: Stata, R, Python
-  –	Editing Tools: LaTeX, MS Office
+  * Data/Statistic Packages: Stata, R, Python
+  *	Editing Tools: LaTeX, MS Office
 * Hobbies: Swimming; Cooking; Tennis; 
 
 
