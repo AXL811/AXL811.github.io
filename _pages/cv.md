@@ -25,7 +25,7 @@ Research Experience
   * Supervisor: Professor Wu
 
 * Fall 2023: Research Assistant
-  * Institute for Internet Industry
+  * Center for Internet Development and Governance (CIDG)
   * Duties included: TBA
   * Supervisor: Professor XXX
   
