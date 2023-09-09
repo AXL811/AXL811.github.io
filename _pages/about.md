@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-I am Alexander X. Li (Chinese name 李新成 lǐ xīn chéng). I just graduated from School of Economics and Management, Tsinghua University with a master degree in Finance. I earned my bachelor degree of Economics and Finance from the same institution, [School of Economics and Management](https://www.sem.tsinghua.edu.cn) in 2021. My research interests include digital platforms and their related topics. I use various methodologies in my research, including quantitative analysis, qualitative analysis and text analysis. 
+I am Alexander X. Li (Chinese name 李新成 lǐ xīn chéng). I just graduated from School of Economics and Management, Tsinghua University with a master degree in Finance. I earned my bachelor degree of Economics and Finance from the same institution, [School of Economics and Management](https://www.sem.tsinghua.edu.cn) in 2021. Currently, I am working as a research assistant at the [Center for Internet Development and Governance](http://cidg.sem.tsinghua.edu.cn/index/ENindex.html). My research interests include digital platforms and their related topics. I use various methodologies in my research, including quantitative analysis, qualitative analysis and text analysis. Notably, I am learning data scraping with Python, which will definitely become a useful way to collect data, aka playing with data. 
 
 My future plan: pursuing a Ph.D. program in Strategy. My ideal destinations are: Harvard University, University of Michigan, University of Pennslyvannia, UCLA, University of Toronto, Duke University. 
 
