@@ -15,5 +15,5 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-My Brief Information
+Work in Progress
 ======
