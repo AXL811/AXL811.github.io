@@ -5,7 +5,6 @@ permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2022-03-15
 venue: 'China Journal of Economics (经济学报)'
-'paperurl: 'http://axl811.github.io/files/国内矛盾与贸易保护主义_基于推特文本的实证研究_郎昆.pdf''
 citation: 'Meng Feng, Kun Lang, Alexander X. Li. (2022). "Domestic Conflicts and Trade Protectionism: Evidence from Tweets (in Chinese)" <i>China Journal of Economics</i>. 9(01):56-84.'
 ---
 This paper is about the number 3. The number 4 is left for future work. 
