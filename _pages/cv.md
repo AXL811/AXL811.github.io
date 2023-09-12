@@ -52,9 +52,9 @@ Presentations
   {% endfor %}</ul>
   
 [//]: <> (Teaching)
-[//]: <> ([======])
+[//]: <> (======)
   [//]: <> (<ul>{% for post in site.teaching %})
-    [//]: <> ({% include archive-single-cv.html %})
+  [//]: <> ({% include archive-single-cv.html %})
   [//]: <> ({% endfor %}</ul>)
   
 Additional Information
