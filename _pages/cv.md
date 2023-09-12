@@ -50,9 +50,8 @@ Presentations
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
-[//]: <> (Teaching ====== <ul>{% for post in site.teaching %} {% include archive-single-cv.html %} {% endfor %}</ul>)
-  
+
+    
 Additional Information
 ======
 * Languages: English (Fluent, TOEFL: 105, PTE Academic Score 71/90, GRE: 159+169+4), Mandarin (Native)
