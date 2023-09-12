@@ -14,7 +14,7 @@ I am Alexander Xincheng Li (Chinese name 李新成 lǐ xīn chéng). I earned my
 
 My future plan: pursuing a Ph.D. program in Strategy. My ideal destinations are: Harvard University, University of Michigan, University of Pennslyvannia, UCLA, University of Toronto, Duke University. 
 
-This personal website is neat and simple, you can find my info such as (Publications)[https://axl811.github.io/publications], (Presentations)[https://axl811.github.io/talks/] and (CV)[https://axl811.github.io/cv/] either through the upper bar or through these links. You can contact me via email through the email link located in the sidebar. Thank you! 
+This personal website is neat and simple, you can find my info such as [Publications](https://axl811.github.io/publications), [Presentations](https://axl811.github.io/talks/) and [CV](https://axl811.github.io/cv/) either through the upper bar or through these links. You can contact me via email through the email link located in the sidebar. Thank you! 
 
 
 
