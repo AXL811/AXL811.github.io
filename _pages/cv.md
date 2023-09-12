@@ -45,9 +45,11 @@ Presentations
   
   
 Skills 
+======
+
 
 [//]: <> (Optional)
-======
+
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
