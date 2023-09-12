@@ -28,15 +28,7 @@ Research Experience
   * Center for Internet Development and Governance (CIDG)
   * Duties included: TBA
   * Supervisor: Professor XXX
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+
 
 Publications
 ======
@@ -51,7 +43,17 @@ Presentations
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
+  
+Skills 
 
+[//]: <> (Optional)
+======
+* Skill 1
+* Skill 2
+  * Sub-skill 2.1
+  * Sub-skill 2.2
+  * Sub-skill 2.3
+* Skill 3
     
 Additional Information
 ======
