@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "About Me"
+title                    : "Alex's Homepage"
 title_separator          : "-"
 name                     : &name "Alex"
 description              : &description "personal description"
@@ -19,7 +19,7 @@ breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
-talkmap_link             : true #change to true to add link to talkmap on talks page
+talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
@@ -96,8 +96,8 @@ author:
   flickr           :
   facebook         : "profile.php?id=100009447431034"
   foursquare       :
-  github           : "AXL811"
-  gitlab           : "AXL811"
+  github           : # "AXL811"
+  gitlab           : # "AXL811"
   google_plus      :
   keybase          :
   instagram        :
@@ -112,7 +112,7 @@ author:
   tumblr           :
   twitter          : "AlexLi99811"
   vine             :
-  weibo            : "u/6246218345"
+  weibo            : # "u/6246218345"
   xing             :
   youtube          :
   wikipedia        :
