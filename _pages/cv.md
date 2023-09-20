@@ -16,18 +16,19 @@ Education
 ======
 * M.A. in Finance, Tsinghua University, 2023 
 * B.A. in Economics and Finance, Tsinghua University, 2021
+* Harvard Summer School program, Harvard University, Summer 2019
 
 Research Experience
 ======
 * Summer 2023: Research Assistant
+  * Ross School of Business
   * University of Michigan
-  * Duties included: TBA
-  * Supervisor: Professor Wu
+  * Supervisor: Professor Wu, Brian
 
 * Fall 2023: Research Assistant
   * Center for Internet Development and Governance (CIDG)
-  * Duties included: TBA
-  * Supervisor: Professor XXX
+  * School of Economics and Management
+  * Supervisor: Professor Chen, Yubo
 
 
 Publications
@@ -44,18 +45,13 @@ Presentations
   {% endfor %}</ul>
   
   
-Skills 
+Research in Progress
 ======
 
 
 [//]: <> (Optional)
+* Internet platforms (Didi, TikTok, etc.): <i>I am studying how platforms cultivate and compete for participants, such as influencers, and cross-border expansions. Research methods: NLP (text analysis), CV (video analysis), interviews, econometrics</i>
 
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
     
 Additional Information
 ======
