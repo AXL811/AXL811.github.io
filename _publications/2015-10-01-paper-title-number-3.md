@@ -2,7 +2,7 @@
 title: "Domestic Conflicts and Trade Protectionism: Evidence from Tweets (in Chinese)"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: "This paper has been published in 2022. The English abstract is attached in the page."
+excerpt: "This study finds that non-trade factors that reflect the domestic conflicts in the United States, such as Trump's disapproval rating and VIX index, have a significant impact on whether Trump posts negative tweets involving China's economic and trade issues."
 date: 2022-03-15
 venue: 'China Journal of Economics (经济学报)'
 citation: 'Meng Feng, Kun Lang, Alexander X. Li. (2022). "Domestic Conflicts and Trade Protectionism: Evidence from Tweets (in Chinese)" <i>China Journal of Economics</i>. 9(01):56-84.'
