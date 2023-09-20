@@ -17,10 +17,10 @@ author_profile: true
 
 Work in Progress
 ======
-1. A Study Emotion Management of Internet Social Platforms (with Yidi Guo)
+1. A Study of the Market Value and the Emotional Capability of Internet Platforms (Graduate dissertation, with Yidi Guo)
 
-2. Free Private Strategy and Open-Source Contributions: Evidence from GitHub (with Di Zhou, Jiawei Chen)
+2. Deriving and Testing a Cobb-Douglas Valuation Function of Internet Platform Companies
 
-3. Deriving and Testing a Cobb-Douglas Valuation Function of Internet Platform Companies
+3. Is Trade Policy Uncertainty Pushing Chinese Companies to Innovate?  (with Kun Lang, Lin Fu, Qi Kang)
 
-4. Is Trade Policy Uncertainty Pushing Chinese Companies to Innovate?  (with Kun Lang, Lin Fu, Qi Kang)
+4. Free Private Strategy and Open-Source Contributions: Evidence from GitHub (with Di Zhou, Jiawei Chen)
