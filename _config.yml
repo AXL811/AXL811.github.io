@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Alexander X. Li"
   avatar           : "IMG_4529.JPG"
-  bio              : "Research Assistant, Center for Internet Development and Governance Tsinghua University"
+  bio              : "Research Assistant, Center for Internet Development and Governance, Tsinghua University"
   location         : "Beijing, China"
   employer         :
   pubmed           :
-  googlescholar    : "https://www.tandfonline.com/doi/full/10.1080/13504851.2021.1927956"
+  googlescholar    : # "https://www.tandfonline.com/doi/full/10.1080/13504851.2021.1927956"
   email            : "alexlxc99@126.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         : "profile.php?id=100009447431034"
   foursquare       :
-  github           : # "AXL811"
+  github           :  "AXL811"
   gitlab           : # "AXL811"
   google_plus      :
   keybase          :
