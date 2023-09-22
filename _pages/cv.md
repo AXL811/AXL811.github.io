@@ -51,6 +51,7 @@ Research in Progress
 
 [//]: <> (Optional)
 * Internet platforms (Didi, TikTok, etc.): <i>I am studying how platforms cultivate and compete for participants, such as influencers, and cross-border expansions. Research methods: NLP (text analysis), CV (video analysis), interviews, econometrics</i>
+* Deriving and testing a Cobb-Douglas valuation function of internet platform companies: <i>I have derived a Cobb-Douglas valuation function of the market value of internet platforms and I am collecting data of those public-listed platforms from various sources in order to test the validity of the valuation function.</i>
 
     
 Additional Information
@@ -66,4 +67,4 @@ Additional Information
 
 <iframe src="/files/李新成个人简历.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 
-You can download a PDF copy of my CV [here](/files/李新成个人简历.pdf).
+You can download a PDF copy of my CV [here](/files/Resume_Alex_Li.pdf).
