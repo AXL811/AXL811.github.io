@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-
+Below are the short summary of the CV. For further details, you can also download a PDF copy of my CV [here](/files/Resume_Alex_Li.pdf).
 
 Education
 ======
@@ -65,6 +65,6 @@ Additional Information
 
 
 
-<iframe src="/files/李新成个人简历.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+<iframe src="/files//Resume_Alex_Li.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 
-You can download a PDF copy of my CV [here](/files/Resume_Alex_Li.pdf).
+
