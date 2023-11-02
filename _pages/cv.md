@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-Below are the short summary of the CV. For further details, you can also download a PDF copy of my CV [here](/files/Resume_Alex_Li.pdf).
+Here are the short summary of my CV. For further details, you can also download the PDF copy [here](/files/Resume_Alex_Li.pdf).
 
 Education
 ======
