@@ -20,7 +20,7 @@ Education
 
 Research Experience
 ======
-* Summer 2023: Research Assistant
+* Research Project on GVC
   * Ross School of Business
   * University of Michigan
   * Supervisor: Professor Wu, Brian
