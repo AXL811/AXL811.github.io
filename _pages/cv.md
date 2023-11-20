@@ -18,18 +18,6 @@ Education
 * B.A. in Economics and Finance, Tsinghua University, 2021
 * Harvard Summer School program, Harvard University, Summer 2019
 
-Research Experience
-======
-* Research Project on GVC
-  * Ross School of Business
-  * University of Michigan
-  * Supervisor: Professor Wu, Brian
-
-* Fall 2023: Research Assistant
-  * Center for Internet Development and Governance (CIDG)
-  * School of Economics and Management
-  * Supervisor: Professor Chen, Yubo
-
 
 Publications
 ======
@@ -52,6 +40,20 @@ Research in Progress
 [//]: <> (Optional)
 * Internet platforms (Didi, TikTok, etc.): <i>I am studying how platforms cultivate and compete for participants, such as influencers, and cross-border expansions. Research methods: NLP (text analysis), CV (video analysis), interviews, econometrics</i>
 * Deriving and testing a Cobb-Douglas valuation function of internet platform companies: <i>I have derived a Cobb-Douglas valuation function of the market value of internet platforms and I am collecting data of those public-listed platforms from various sources in order to test the validity of the valuation function.</i>
+
+
+Research Experience
+======
+* Research Project on GVC
+  * Ross School of Business
+  * University of Michigan
+  * Supervisor: Professor Wu, Brian
+
+* Fall 2023: Research Assistant
+  * Center for Internet Development and Governance (CIDG)
+  * School of Economics and Management
+  * Supervisor: Professor Chen, Yubo
+
 
     
 Additional Information
