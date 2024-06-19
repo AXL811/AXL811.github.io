@@ -3,7 +3,7 @@ title: "Is Trade Policy Uncertainty Pushing Chinese Enterprises to Innovate (in 
 collection: publications
 permalink: /publication/2024-01-15-TPU-Innovation-JIT-3
 excerpt: "This study finds that non-tra"
-date: 2024-01-15
+date: 2000-01-15
 venue: 'Journal of International Trade (国际贸易问题)'
 citation: 'Kun Lang, Alexander X. Li. (2024). "Is Trade Policy Uncertainty Pushing Chinese Enterprises to Innovate (in Chinese)" <i>Journal of International Trade</i>. 2024(01):87-104.'
 ---
