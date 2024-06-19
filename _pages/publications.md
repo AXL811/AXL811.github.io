@@ -17,10 +17,12 @@ author_profile: true
 
 Work in Progress
 ======
-1. A Study of the Emotional Capability of Internet Platforms (Graduate dissertation, with Yidi Guo)
+1. How to Win the EV Competition? (supervised by Brian Wu)
 
-2. Deriving and Testing a Cobb-Douglas Valuation Function of Internet Platform Companies
+2. Officials' behavior (with Lang Kun)
+  
+3. A Study of the Emotional Capability of Internet Platforms (Graduate dissertation, with Yidi Guo)
 
-3. Is Trade Policy Uncertainty Pushing Chinese Companies to Innovate?  (with Kun Lang, Lin Fu, Qi Kang)
+4. Deriving and Testing a Cobb-Douglas Valuation Function of Internet Platform Companies
 
-4. The dynamics of global value chain with a focus on the automobile industry (supervised by Brian Wu)
+
