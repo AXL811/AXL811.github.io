@@ -1,7 +1,7 @@
 ---
 title: "Domestic Conflicts and Trade Protectionism: Evidence from Tweets (in Chinese)"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: /publication/2022-03-01-Domestic-Conflicts-CJE-1
 excerpt: "This study finds that non-trade factors that reflect the domestic conflicts in the United States, such as Trump's disapproval rating and VIX index, have a significant impact on whether Trump posts negative tweets involving China's economic and trade issues."
 date: 2022-03-15
 venue: 'China Journal of Economics (经济学报)'
