@@ -1,9 +1,9 @@
 ---
 title: "Disapproval rating, VIX index, COVID-19 cases and Trump’s tweeting against China"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2021-05-25-Disapproval-VIX-COVID-Trump-AEL-1
 excerpt: 'The primary goal of this paper is to provide empirical evidence for how non-trade factors attribute to the China-US trade war. Trump’s tweets provide us with a unique perspective. <br /> Recommended citation: Lang, K., & Li, A. X. (2022). "Disapproval rating, VIX index, COVID-19 cases and Trump’s tweeting against China". <i>Applied Economics Letters</i>, 29(14), 1306-1312.'
-date: 2022-05-23
+date: 2021-05-25
 venue: 'Applied Economics Letters'
 ---
 
