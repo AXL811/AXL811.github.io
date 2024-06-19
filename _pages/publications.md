@@ -19,7 +19,7 @@ Work in Progress
 ======
 1. How to Win the EV Competition? (supervised by Brian Wu)
 
-2. How Local Governments Respond to Conflicting Targets (ready for submission, with [Lang Kun](langkunprc.com))
+2. How Local Governments Respond to Conflicting Targets (ready for submission, with [Lang Kun](http://langkunprc.com))
   
 3. A Study of the Emotional Capability of Internet Platforms (Graduate dissertation, with Yidi Guo)
 
