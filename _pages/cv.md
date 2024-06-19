@@ -35,7 +35,7 @@ Presentations
   
 Research in Progress
 ======
-
+How to Win the EV Competition? with Prof. Brian Wu
 
 [//]: <> (Optional)
 * Internet platforms (Didi, TikTok, etc.): <i>I am studying how platforms cultivate and compete for participants, such as influencers, and cross-border expansions. Research methods: NLP (text analysis), CV (video analysis), interviews, econometrics</i>
@@ -44,7 +44,7 @@ Research in Progress
 
 Research Experience
 ======
-* Research Project on GVC
+* Research Project: How to Win the EV Competition?
   * Ross School of Business
   * University of Michigan
   * Supervisor: Professor Wu, Brian
