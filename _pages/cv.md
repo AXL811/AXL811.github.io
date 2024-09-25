@@ -35,6 +35,10 @@ Presentations
   
 Research in Progress
 ======
+* How to Win the EV Competition? (Supervised by Brian WU)
+
+* Will China’s Corporate Strategy of Indigenous Innovation be Successful in Response to the Risk of Decoupling from the US? (With [Kun LANG](http://langkunprc.com))
+
 How to Win the EV Competition? with Prof. Brian Wu
 
 [//]: <> (Optional)
