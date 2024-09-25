@@ -13,6 +13,7 @@ strategy and R&D investment. The results show that, on the one hand, trade polic
 Keywords: Trade Policy Uncertainty; Indigenous Innovation; R&D Investment; High-tech Enterprise
 
 [Download paper here](http://axl811.github.io/files/贸易政策不确定性是否倒逼中国企业创新_郎昆.pdf)
+[Visit at CNKI](https://kns.cnki.net/kcms2/article/abstract?v=Fc1KeZPKhRFF2eG5vVVvpFiyb8MqDw9i0goTJ1SG3MW7GVmkerWrWUzOF0fAUx3CpkbLPQ92ls54D43asWDXObaVQHPNibKVh-yFfsnDDVGhzSyN-wONQSJs9_VKfc9DSuyxiYhBt9jRcyGse-E3HW1DkwEYRdhE21cETU-iEjYT98ea8GOoPb-O6Bs1q4lC&uniplatform=NZKPT&language=CHS)
 
 Recommended citation: Kun Lang, Alexander X. Li. (2024). "Is Trade Policy Uncertainty Pushing Chinese Enterprises to Innovate (in Chinese)" <i>Journal of International Trade</i>. 2024(01):87-104.
 Recommended citation for Chinese: 郎昆,李新成.贸易政策不确定性是否倒逼中国企业创新[J].国际贸易问题,2024(01):87-104.DOI:10.13510/j.cnki.jit.2024.01.010.
