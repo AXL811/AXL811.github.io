@@ -12,6 +12,8 @@ whether Trump posts negative tweets involving China's economic and trade issues.
 
 [Download paper here](http://axl811.github.io/files/国内矛盾与贸易保护主义_基于推特文本的实证研究_郎昆.pdf)
 
+[Visit at CNKI](https://kns.cnki.net/kcms2/article/abstract?v=Fc1KeZPKhRFF2eG5vVVvpFiyb8MqDw9i0goTJ1SG3MW7GVmkerWrWUzOF0fAUx3CpkbLPQ92ls54D43asWDXObaVQHPNibKVh-yFfsnDDVGhzSyN-wONQSJs9_VKfc9DSuyxiYhBt9jRcyGse-E3HW1DkwEYRdhE21cETU-iEjYT98ea8GOoPb-O6Bs1q4lC&uniplatform=NZKPT&language=CHS)
+
 Recommended citation: Ming Feng, Kun Lang, Alexander X. Li. (2022). "Domestic Conflicts and Trade Protectionism: Evidence from Tweets (in Chinese)" <i>China Journal of Economics</i>. 9(01):56-84.
 
 Recommended citation for Chinese:郎昆,李新成,冯明.国内矛盾与贸易保护主义:基于推特文本的实证研究[J].经济学报,2022,9(01):56-84.
