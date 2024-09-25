@@ -17,7 +17,7 @@ author_profile: true
 
 Work in Progress
 ======
-1. How to Win the EV Competition? (Supervised by Brian WU)
+1. How to Win the EV Competition? (Supervised by [Brian WU](https://michiganross.umich.edu/faculty-research/faculty/brian-wu))
 
 2. Will China’s Corporate Strategy of Indigenous Innovation be Successful in Response to the Risk of Decoupling from the US? (With [Kun LANG](http://langkunprc.com))
 
