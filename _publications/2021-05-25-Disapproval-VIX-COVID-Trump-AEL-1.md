@@ -13,3 +13,5 @@ The primary goal of this paper is to provide empirical evidence for how non-trad
 Recommended citation: Lang, K., & Li, A. X. (2022). "Disapproval rating, VIX index, COVID-19 cases and Trump’s tweeting against China". <i>Applied Economics Letters</i>, 29(14), 1306-1312.
 
 [Download paper here](http://axl811.github.io/files/DisapprovalratingVIXindexCOVID-19casesandTrumpstweetingagainstChina.pdf)
+
+[Visit at CNKI](https://kns.cnki.net/kcms2/article/abstract?v=Fc1KeZPKhRFF2eG5vVVvpFiyb8MqDw9i0goTJ1SG3MW7GVmkerWrWUzOF0fAUx3CpkbLPQ92ls54D43asWDXObaVQHPNibKVh-yFfsnDDVGhzSyN-wONQSJs9_VKfc9DSuyxiYhBt9jRcyGse-E3HW1DkwEYRdhE21cETU-iEjYT98ea8GOoPb-O6Bs1q4lC&uniplatform=NZKPT&language=CHS)
