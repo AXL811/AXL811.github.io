@@ -17,12 +17,15 @@ author_profile: true
 
 Work in Progress
 ======
-1. How to Win the EV Competition? (supervised by Brian Wu)
+1. How to Win the EV Competition? (Supervised by Brian WU)
 
-2. How Local Governments Respond to Conflicting Targets (ready for submission, with [Lang Kun](http://langkunprc.com))
-  
-3. A Study of the Emotional Capability of Internet Platforms (Graduate dissertation, with Yidi Guo)
+2. Will China’s Corporate Strategy of Indigenous Innovation be Successful in Response to the Risk of Decoupling from the US? (With [Kun LANG](http://langkunprc.com))
 
-4. Deriving and Testing a Cobb-Douglas Valuation Function of Internet Platform Companies
+3. A Study of the Emotional Capability of Internet Platforms (Graduate dissertation, with Yidi GUO)
+
+4. How Local Governments Respond to Conflicting Targets (Ready for submission, with Kun LANG)
+
+5. Deriving and Testing a Cobb-Douglas Valuation Function of Internet Platform Companies
+
 
 
